@@ -1,0 +1,3 @@
+print("{0:*<10}".format("hi"))
+print("{0:*>10}".format("hi"))
+print("{0:*^10}".format("hi"))
