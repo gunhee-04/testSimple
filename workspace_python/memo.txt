@@ -1,5 +1,0 @@
-bit(0,1) -> byte(8bit:256) -> word(2byte~) -> field
---> record(tuple) --> file -> DB
-
-            영문자: 26,52 + 10 + 24 ==> (7bit)128
-            ASCII 
